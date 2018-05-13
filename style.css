@@ -1,0 +1,63 @@
+.footer {
+  height: 400px;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
+.image{
+	box-shadow: 0 25px 20px -20px rgba(0, 0, 0, 0.3), 0 0 15px rgba(0, 0, 0, 0.06);
+    -webkit-transition: all .5s ease-out;
+    transition: all .5s ease-out;
+    margin-right: 10px;
+}
+.box-shadow {
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, .05);
+}
+.pricing-header.px-3.py-3.pt-md-5.pb-md-4.mx-auto.text-center {
+    display: block;
+    overflow: hidden;
+}
+.profnameskil {
+    float: left;
+    text-align: left;
+}
+body, h1,h2,h3,h4,h5,h6 {font-family: 'BPG Nino Mtavruli', sans-serif;}
+.alert.alert-success {
+    box-shadow: 0 25px 20px -20px rgba(0, 0, 0, 0.3), 0 0 15px rgba(0, 0, 0, 0.06);
+    -webkit-transition: all .5s ease-out;
+    transition: all .5s ease-out;
+}
+ul#pills-tab{
+	margin-bottom: 0px !important; 
+}
+.project_image{
+	box-shadow: 0 8px 10px 1px rgba(0,0,0,.14), 0 3px 14px 2px rgba(0,0,0,.12), 0 5px 5px -3px rgba(0,0,0,.2);
+    -webkit-transition: all .5s ease-out;
+    transition: all .5s ease-out;
+}
+.project_image:hover{
+webkit-transform: scale(1.02);
+    transform: scale(1.02);}
+
+.nav-link{
+    font-family: 'BPG Nino Mtavruli', sans-serif;}
+.tab-pane h3{
+font-family: 'BPG Nino Mtavruli', sans-serif;
+}
+.alert-primary{
+    font-family: 'BPG Nino Mtavruli', sans-serif;
+}
+
+.card-header span{
+    font-family: 'BPG Nino Mtavruli', sans-serif;
+}
+p.card-text {
+    font-size: 14px;
+}
+.row{
+    margin-top: 20px;
+}
+
